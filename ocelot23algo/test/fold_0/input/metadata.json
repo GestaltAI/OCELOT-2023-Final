@@ -1,0 +1,2027 @@
+[
+    {
+        "slide_name": "TCGA-A3-3328-01Z-00-DX1.8FA7DFCD-D6FD-4950-9E44-E5AB0B91E33D",
+        "cell": {
+            "x_start": 59847,
+            "y_start": 45290,
+            "x_end": 60655,
+            "y_end": 46098,
+            "resized_mpp_x": 0.19426718377508223,
+            "resized_mpp_y": 0.19426718377508223
+        },
+        "tissue": {
+            "x_start": 58230,
+            "y_start": 45290,
+            "x_end": 61465,
+            "y_end": 48525,
+            "resized_mpp_x": 0.7777900241489988,
+            "resized_mpp_y": 0.7777900241489988
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24619999527931213,
+        "mpp_y": 0.24619999527931213,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-A3-3328-01Z-00-DX1.8FA7DFCD-D6FD-4950-9E44-E5AB0B91E33D",
+        "cell": {
+            "x_start": 66317,
+            "y_start": 30732,
+            "x_end": 67125,
+            "y_end": 31540,
+            "resized_mpp_x": 0.19426718377508223,
+            "resized_mpp_y": 0.19426718377508223
+        },
+        "tissue": {
+            "x_start": 64700,
+            "y_start": 29115,
+            "x_end": 67935,
+            "y_end": 32350,
+            "resized_mpp_x": 0.7777900241489988,
+            "resized_mpp_y": 0.7777900241489988
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24619999527931213,
+        "mpp_y": 0.24619999527931213,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-A3-3328-01Z-00-DX1.8FA7DFCD-D6FD-4950-9E44-E5AB0B91E33D",
+        "cell": {
+            "x_start": 6470,
+            "y_start": 32350,
+            "x_end": 7278,
+            "y_end": 33158,
+            "resized_mpp_x": 0.19426718377508223,
+            "resized_mpp_y": 0.19426718377508223
+        },
+        "tissue": {
+            "x_start": 6470,
+            "y_start": 32350,
+            "x_end": 9705,
+            "y_end": 35585,
+            "resized_mpp_x": 0.7777900241489988,
+            "resized_mpp_y": 0.7777900241489988
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24619999527931213,
+        "mpp_y": 0.24619999527931213,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-A3-3328-01Z-00-DX1.8FA7DFCD-D6FD-4950-9E44-E5AB0B91E33D",
+        "cell": {
+            "x_start": 17792,
+            "y_start": 16175,
+            "x_end": 18600,
+            "y_end": 16983,
+            "resized_mpp_x": 0.19426718377508223,
+            "resized_mpp_y": 0.19426718377508223
+        },
+        "tissue": {
+            "x_start": 16175,
+            "y_start": 16175,
+            "x_end": 19410,
+            "y_end": 19410,
+            "resized_mpp_x": 0.7777900241489988,
+            "resized_mpp_y": 0.7777900241489988
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24619999527931213,
+        "mpp_y": 0.24619999527931213,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-A3-3328-01Z-00-DX1.8FA7DFCD-D6FD-4950-9E44-E5AB0B91E33D",
+        "cell": {
+            "x_start": 9705,
+            "y_start": 12940,
+            "x_end": 10513,
+            "y_end": 13748,
+            "resized_mpp_x": 0.19426718377508223,
+            "resized_mpp_y": 0.19426718377508223
+        },
+        "tissue": {
+            "x_start": 9705,
+            "y_start": 12940,
+            "x_end": 12940,
+            "y_end": 16175,
+            "resized_mpp_x": 0.7777900241489988,
+            "resized_mpp_y": 0.7777900241489988
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24619999527931213,
+        "mpp_y": 0.24619999527931213,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-A3-3336-01Z-00-DX1.F2848BBF-DCDF-4AB0-837C-99A88CC5A49A",
+        "cell": {
+            "x_start": 12940,
+            "y_start": 29115,
+            "x_end": 13748,
+            "y_end": 29923,
+            "resized_mpp_x": 0.19426718377508223,
+            "resized_mpp_y": 0.19426718377508223
+        },
+        "tissue": {
+            "x_start": 12940,
+            "y_start": 29115,
+            "x_end": 16175,
+            "y_end": 32350,
+            "resized_mpp_x": 0.7777900241489988,
+            "resized_mpp_y": 0.7777900241489988
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24619999527931213,
+        "mpp_y": 0.24619999527931213,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-A3-3336-01Z-00-DX1.F2848BBF-DCDF-4AB0-837C-99A88CC5A49A",
+        "cell": {
+            "x_start": 22645,
+            "y_start": 22645,
+            "x_end": 23453,
+            "y_end": 23453,
+            "resized_mpp_x": 0.19426718377508223,
+            "resized_mpp_y": 0.19426718377508223
+        },
+        "tissue": {
+            "x_start": 22645,
+            "y_start": 22645,
+            "x_end": 25880,
+            "y_end": 25880,
+            "resized_mpp_x": 0.7777900241489988,
+            "resized_mpp_y": 0.7777900241489988
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24619999527931213,
+        "mpp_y": 0.24619999527931213,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-A3-3336-01Z-00-DX1.F2848BBF-DCDF-4AB0-837C-99A88CC5A49A",
+        "cell": {
+            "x_start": 27497,
+            "y_start": 22645,
+            "x_end": 28305,
+            "y_end": 23453,
+            "resized_mpp_x": 0.19426718377508223,
+            "resized_mpp_y": 0.19426718377508223
+        },
+        "tissue": {
+            "x_start": 25880,
+            "y_start": 22645,
+            "x_end": 29115,
+            "y_end": 25880,
+            "resized_mpp_x": 0.7777900241489988,
+            "resized_mpp_y": 0.7777900241489988
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24619999527931213,
+        "mpp_y": 0.24619999527931213,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-A3-3336-01Z-00-DX1.F2848BBF-DCDF-4AB0-837C-99A88CC5A49A",
+        "cell": {
+            "x_start": 9705,
+            "y_start": 32350,
+            "x_end": 10513,
+            "y_end": 33158,
+            "resized_mpp_x": 0.19426718377508223,
+            "resized_mpp_y": 0.19426718377508223
+        },
+        "tissue": {
+            "x_start": 9705,
+            "y_start": 32350,
+            "x_end": 12940,
+            "y_end": 35585,
+            "resized_mpp_x": 0.7777900241489988,
+            "resized_mpp_y": 0.7777900241489988
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24619999527931213,
+        "mpp_y": 0.24619999527931213,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AL-3472-01Z-00-DX2.C7BF0356-F099-4070-8824-1AC3339E9F59",
+        "cell": {
+            "x_start": 23640,
+            "y_start": 31520,
+            "x_end": 24428,
+            "y_end": 32308,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 22064,
+            "y_start": 31520,
+            "x_end": 25216,
+            "y_end": 34672,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AL-3472-01Z-00-DX2.C7BF0356-F099-4070-8824-1AC3339E9F59",
+        "cell": {
+            "x_start": 15760,
+            "y_start": 12608,
+            "x_end": 16548,
+            "y_end": 13396,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 15760,
+            "y_start": 12608,
+            "x_end": 18912,
+            "y_end": 15760,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AL-3472-01Z-00-DX2.C7BF0356-F099-4070-8824-1AC3339E9F59",
+        "cell": {
+            "x_start": 34672,
+            "y_start": 39400,
+            "x_end": 35460,
+            "y_end": 40188,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 34672,
+            "y_start": 37824,
+            "x_end": 37824,
+            "y_end": 40976,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-BP-4995-01Z-00-DX1.e8ebf283-46f9-4d1f-a8a6-11c24d8fad46",
+        "cell": {
+            "x_start": 19134,
+            "y_start": 39862,
+            "x_end": 19931,
+            "y_end": 40659,
+            "resized_mpp_x": 0.19442441142746247,
+            "resized_mpp_y": 0.19442441142746247
+        },
+        "tissue": {
+            "x_start": 19134,
+            "y_start": 38268,
+            "x_end": 22322,
+            "y_end": 41456,
+            "resized_mpp_x": 0.7776976457098499,
+            "resized_mpp_y": 0.7776976457098499
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24979999661445618,
+        "mpp_y": 0.24979999661445618,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-BP-4995-01Z-00-DX1.e8ebf283-46f9-4d1f-a8a6-11c24d8fad46",
+        "cell": {
+            "x_start": 54213,
+            "y_start": 25512,
+            "x_end": 55010,
+            "y_end": 26309,
+            "resized_mpp_x": 0.19442441142746247,
+            "resized_mpp_y": 0.19442441142746247
+        },
+        "tissue": {
+            "x_start": 54213,
+            "y_start": 25512,
+            "x_end": 57401,
+            "y_end": 28700,
+            "resized_mpp_x": 0.7776976457098499,
+            "resized_mpp_y": 0.7776976457098499
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24979999661445618,
+        "mpp_y": 0.24979999661445618,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-BP-4995-01Z-00-DX1.e8ebf283-46f9-4d1f-a8a6-11c24d8fad46",
+        "cell": {
+            "x_start": 117993,
+            "y_start": 19134,
+            "x_end": 118790,
+            "y_end": 19931,
+            "resized_mpp_x": 0.19442441142746247,
+            "resized_mpp_y": 0.19442441142746247
+        },
+        "tissue": {
+            "x_start": 117993,
+            "y_start": 19134,
+            "x_end": 121181,
+            "y_end": 22322,
+            "resized_mpp_x": 0.7776976457098499,
+            "resized_mpp_y": 0.7776976457098499
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24979999661445618,
+        "mpp_y": 0.24979999661445618,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-BP-4995-01Z-00-DX1.e8ebf283-46f9-4d1f-a8a6-11c24d8fad46",
+        "cell": {
+            "x_start": 11161,
+            "y_start": 46240,
+            "x_end": 11958,
+            "y_end": 47037,
+            "resized_mpp_x": 0.19442441142746247,
+            "resized_mpp_y": 0.19442441142746247
+        },
+        "tissue": {
+            "x_start": 9567,
+            "y_start": 44646,
+            "x_end": 12755,
+            "y_end": 47834,
+            "resized_mpp_x": 0.7776976457098499,
+            "resized_mpp_y": 0.7776976457098499
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24979999661445618,
+        "mpp_y": 0.24979999661445618,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-J7-8537-01Z-00-DX3.E536E7F6-FFDC-46AF-9023-E5ACB3865C12",
+        "cell": {
+            "x_start": 27251,
+            "y_start": 30457,
+            "x_end": 28052,
+            "y_end": 31258,
+            "resized_mpp_x": 0.1943833042314509,
+            "resized_mpp_y": 0.1943833042314509
+        },
+        "tissue": {
+            "x_start": 25648,
+            "y_start": 28854,
+            "x_end": 28853,
+            "y_end": 32059,
+            "resized_mpp_x": 0.7777758927113609,
+            "resized_mpp_y": 0.7777758927113609
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.2485000044107437,
+        "mpp_y": 0.2485000044107437,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-KN-8430-01Z-00-DX1.8192F868-A504-44E0-929B-7527EB37ECAB",
+        "cell": {
+            "x_start": 26877,
+            "y_start": 17391,
+            "x_end": 27667,
+            "y_end": 18181,
+            "resized_mpp_x": 0.19433690438745543,
+            "resized_mpp_y": 0.19433690438745543
+        },
+        "tissue": {
+            "x_start": 25296,
+            "y_start": 15810,
+            "x_end": 28458,
+            "y_end": 18972,
+            "resized_mpp_x": 0.777839609712828,
+            "resized_mpp_y": 0.777839609712828
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.25189998745918274,
+        "mpp_y": 0.25189998745918274,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-NP-A5H5-01Z-00-DX1.E6434A29-9182-4476-9E89-62B9C8EABC5B",
+        "cell": {
+            "x_start": 11063,
+            "y_start": 33190,
+            "x_end": 11853,
+            "y_end": 33980,
+            "resized_mpp_x": 0.19441406562691554,
+            "resized_mpp_y": 0.19441406562691554
+        },
+        "tissue": {
+            "x_start": 9483,
+            "y_start": 31610,
+            "x_end": 12643,
+            "y_end": 34770,
+            "resized_mpp_x": 0.7776562625076622,
+            "resized_mpp_y": 0.7776562625076622
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.25200000405311584,
+        "mpp_y": 0.25200000405311584,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-NP-A5H5-01Z-00-DX1.E6434A29-9182-4476-9E89-62B9C8EABC5B",
+        "cell": {
+            "x_start": 22127,
+            "y_start": 7902,
+            "x_end": 22917,
+            "y_end": 8692,
+            "resized_mpp_x": 0.19441406562691554,
+            "resized_mpp_y": 0.19441406562691554
+        },
+        "tissue": {
+            "x_start": 22127,
+            "y_start": 6322,
+            "x_end": 25287,
+            "y_end": 9482,
+            "resized_mpp_x": 0.7776562625076622,
+            "resized_mpp_y": 0.7776562625076622
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.25200000405311584,
+        "mpp_y": 0.25200000405311584,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-NP-A5H5-01Z-00-DX1.E6434A29-9182-4476-9E89-62B9C8EABC5B",
+        "cell": {
+            "x_start": 4741,
+            "y_start": 31610,
+            "x_end": 5531,
+            "y_end": 32400,
+            "resized_mpp_x": 0.19441406562691554,
+            "resized_mpp_y": 0.19441406562691554
+        },
+        "tissue": {
+            "x_start": 3161,
+            "y_start": 31610,
+            "x_end": 6321,
+            "y_end": 34770,
+            "resized_mpp_x": 0.7776562625076622,
+            "resized_mpp_y": 0.7776562625076622
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25200000405311584,
+        "mpp_y": 0.25200000405311584,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-UW-A72O-01Z-00-DX1.755C4693-A9CE-48E7-A76B-DAECEE850D35",
+        "cell": {
+            "x_start": 20943,
+            "y_start": 51552,
+            "x_end": 21748,
+            "y_end": 52357,
+            "resized_mpp_x": 0.19433202913205605,
+            "resized_mpp_y": 0.19433202913205605
+        },
+        "tissue": {
+            "x_start": 19332,
+            "y_start": 51552,
+            "x_end": 22554,
+            "y_end": 54774,
+            "resized_mpp_x": 0.7778109290229622,
+            "resized_mpp_y": 0.7778109290229622
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24719999730587006,
+        "mpp_y": 0.24719999730587006,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-UW-A72O-01Z-00-DX1.755C4693-A9CE-48E7-A76B-DAECEE850D35",
+        "cell": {
+            "x_start": 114381,
+            "y_start": 14499,
+            "x_end": 115186,
+            "y_end": 15304,
+            "resized_mpp_x": 0.19433202913205605,
+            "resized_mpp_y": 0.19433202913205605
+        },
+        "tissue": {
+            "x_start": 112770,
+            "y_start": 12888,
+            "x_end": 115992,
+            "y_end": 16110,
+            "resized_mpp_x": 0.7778109290229622,
+            "resized_mpp_y": 0.7778109290229622
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24719999730587006,
+        "mpp_y": 0.24719999730587006,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-UW-A72O-01Z-00-DX1.755C4693-A9CE-48E7-A76B-DAECEE850D35",
+        "cell": {
+            "x_start": 25776,
+            "y_start": 54774,
+            "x_end": 26581,
+            "y_end": 55579,
+            "resized_mpp_x": 0.19433202913205605,
+            "resized_mpp_y": 0.19433202913205605
+        },
+        "tissue": {
+            "x_start": 25776,
+            "y_start": 54774,
+            "x_end": 28998,
+            "y_end": 57996,
+            "resized_mpp_x": 0.7778109290229622,
+            "resized_mpp_y": 0.7778109290229622
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24719999730587006,
+        "mpp_y": 0.24719999730587006,
+        "organ": "kidney",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AJ-A4ZG-01Z-00-DX1.6EC032CB-9951-46C3-A0A6-B8F433F28A5D",
+        "cell": {
+            "x_start": 6322,
+            "y_start": 6322,
+            "x_end": 7112,
+            "y_end": 7112,
+            "resized_mpp_x": 0.19441406562691554,
+            "resized_mpp_y": 0.19441406562691554
+        },
+        "tissue": {
+            "x_start": 6322,
+            "y_start": 6322,
+            "x_end": 9482,
+            "y_end": 9482,
+            "resized_mpp_x": 0.7776562625076622,
+            "resized_mpp_y": 0.7776562625076622
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25200000405311584,
+        "mpp_y": 0.25200000405311584,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AJ-A4ZG-01Z-00-DX1.6EC032CB-9951-46C3-A0A6-B8F433F28A5D",
+        "cell": {
+            "x_start": 17385,
+            "y_start": 15805,
+            "x_end": 18175,
+            "y_end": 16595,
+            "resized_mpp_x": 0.19441406562691554,
+            "resized_mpp_y": 0.19441406562691554
+        },
+        "tissue": {
+            "x_start": 15805,
+            "y_start": 15805,
+            "x_end": 18965,
+            "y_end": 18965,
+            "resized_mpp_x": 0.7776562625076622,
+            "resized_mpp_y": 0.7776562625076622
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25200000405311584,
+        "mpp_y": 0.25200000405311584,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A05S-01Z-00-DX1.2C0EC24F-086C-4C96-9955-676D43996443",
+        "cell": {
+            "x_start": 46806,
+            "y_start": 38736,
+            "x_end": 47612,
+            "y_end": 39542,
+            "resized_mpp_x": 0.19425859802868217,
+            "resized_mpp_y": 0.19425859802868217
+        },
+        "tissue": {
+            "x_start": 45192,
+            "y_start": 38736,
+            "x_end": 48419,
+            "y_end": 41963,
+            "resized_mpp_x": 0.7777574390056543,
+            "resized_mpp_y": 0.7777574390056543
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.2468000054359436,
+        "mpp_y": 0.2468000054359436,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A05S-01Z-00-DX1.2C0EC24F-086C-4C96-9955-676D43996443",
+        "cell": {
+            "x_start": 53262,
+            "y_start": 24210,
+            "x_end": 54068,
+            "y_end": 25016,
+            "resized_mpp_x": 0.19425859802868217,
+            "resized_mpp_y": 0.19425859802868217
+        },
+        "tissue": {
+            "x_start": 51648,
+            "y_start": 22596,
+            "x_end": 54875,
+            "y_end": 25823,
+            "resized_mpp_x": 0.7777574390056543,
+            "resized_mpp_y": 0.7777574390056543
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.2468000054359436,
+        "mpp_y": 0.2468000054359436,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A05S-01Z-00-DX1.2C0EC24F-086C-4C96-9955-676D43996443",
+        "cell": {
+            "x_start": 30666,
+            "y_start": 35508,
+            "x_end": 31472,
+            "y_end": 36314,
+            "resized_mpp_x": 0.19425859802868217,
+            "resized_mpp_y": 0.19425859802868217
+        },
+        "tissue": {
+            "x_start": 29052,
+            "y_start": 35508,
+            "x_end": 32279,
+            "y_end": 38735,
+            "resized_mpp_x": 0.7777574390056543,
+            "resized_mpp_y": 0.7777574390056543
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.2468000054359436,
+        "mpp_y": 0.2468000054359436,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A060-01Z-00-DX2.24E305A1-4F4D-42DF-ABBF-1CE6ADCE4FA5",
+        "cell": {
+            "x_start": 25824,
+            "y_start": 64560,
+            "x_end": 26630,
+            "y_end": 65366,
+            "resized_mpp_x": 0.19425859802868217,
+            "resized_mpp_y": 0.19425859802868217
+        },
+        "tissue": {
+            "x_start": 25824,
+            "y_start": 64560,
+            "x_end": 29051,
+            "y_end": 67787,
+            "resized_mpp_x": 0.7777574390056543,
+            "resized_mpp_y": 0.7777574390056543
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.2468000054359436,
+        "mpp_y": 0.2468000054359436,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A060-01Z-00-DX2.24E305A1-4F4D-42DF-ABBF-1CE6ADCE4FA5",
+        "cell": {
+            "x_start": 59718,
+            "y_start": 25824,
+            "x_end": 60524,
+            "y_end": 26630,
+            "resized_mpp_x": 0.19425859802868217,
+            "resized_mpp_y": 0.19425859802868217
+        },
+        "tissue": {
+            "x_start": 58104,
+            "y_start": 25824,
+            "x_end": 61331,
+            "y_end": 29051,
+            "resized_mpp_x": 0.7777574390056543,
+            "resized_mpp_y": 0.7777574390056543
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.2468000054359436,
+        "mpp_y": 0.2468000054359436,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A060-01Z-00-DX2.24E305A1-4F4D-42DF-ABBF-1CE6ADCE4FA5",
+        "cell": {
+            "x_start": 85542,
+            "y_start": 62946,
+            "x_end": 86348,
+            "y_end": 63752,
+            "resized_mpp_x": 0.19425859802868217,
+            "resized_mpp_y": 0.19425859802868217
+        },
+        "tissue": {
+            "x_start": 83928,
+            "y_start": 61332,
+            "x_end": 87155,
+            "y_end": 64559,
+            "resized_mpp_x": 0.7777574390056543,
+            "resized_mpp_y": 0.7777574390056543
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.2468000054359436,
+        "mpp_y": 0.2468000054359436,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A060-01Z-00-DX2.24E305A1-4F4D-42DF-ABBF-1CE6ADCE4FA5",
+        "cell": {
+            "x_start": 71016,
+            "y_start": 24210,
+            "x_end": 71822,
+            "y_end": 25016,
+            "resized_mpp_x": 0.19425859802868217,
+            "resized_mpp_y": 0.19425859802868217
+        },
+        "tissue": {
+            "x_start": 71016,
+            "y_start": 22596,
+            "x_end": 74243,
+            "y_end": 25823,
+            "resized_mpp_x": 0.7777574390056543,
+            "resized_mpp_y": 0.7777574390056543
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.2468000054359436,
+        "mpp_y": 0.2468000054359436,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A0J0-01Z-00-DX1.A720FEF9-D7E5-4914-B06B-BCB7F10F0A98",
+        "cell": {
+            "x_start": 38544,
+            "y_start": 65846,
+            "x_end": 39346,
+            "y_end": 66648,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 38544,
+            "y_start": 64240,
+            "x_end": 41755,
+            "y_end": 67451,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A0J0-01Z-00-DX1.A720FEF9-D7E5-4914-B06B-BCB7F10F0A98",
+        "cell": {
+            "x_start": 54604,
+            "y_start": 27302,
+            "x_end": 55406,
+            "y_end": 28104,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 54604,
+            "y_start": 25696,
+            "x_end": 57815,
+            "y_end": 28907,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A1C5-01Z-00-DX1.5A13A645-BED0-4819-B168-22118E103828",
+        "cell": {
+            "x_start": 28908,
+            "y_start": 52998,
+            "x_end": 29710,
+            "y_end": 53800,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 28908,
+            "y_start": 51392,
+            "x_end": 32119,
+            "y_end": 54603,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A1C5-01Z-00-DX1.5A13A645-BED0-4819-B168-22118E103828",
+        "cell": {
+            "x_start": 51392,
+            "y_start": 43362,
+            "x_end": 52194,
+            "y_end": 44164,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 51392,
+            "y_start": 41756,
+            "x_end": 54603,
+            "y_end": 44967,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A1CK-01Z-00-DX2.727BC252-9244-461D-93C8-9101E0EEABB4",
+        "cell": {
+            "x_start": 48180,
+            "y_start": 59422,
+            "x_end": 48982,
+            "y_end": 60224,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 48180,
+            "y_start": 57816,
+            "x_end": 51391,
+            "y_end": 61027,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A1CN-01Z-00-DX2.498C651A-040E-4909-B874-30D25EC6EA3A",
+        "cell": {
+            "x_start": 88330,
+            "y_start": 65846,
+            "x_end": 89132,
+            "y_end": 66648,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 86724,
+            "y_start": 64240,
+            "x_end": 89935,
+            "y_end": 67451,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A1CN-01Z-00-DX2.498C651A-040E-4909-B874-30D25EC6EA3A",
+        "cell": {
+            "x_start": 49786,
+            "y_start": 17666,
+            "x_end": 50588,
+            "y_end": 18468,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 48180,
+            "y_start": 16060,
+            "x_end": 51391,
+            "y_end": 19271,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-AX-A1CN-01Z-00-DX2.498C651A-040E-4909-B874-30D25EC6EA3A",
+        "cell": {
+            "x_start": 86724,
+            "y_start": 54604,
+            "x_end": 87526,
+            "y_end": 55406,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 86724,
+            "y_start": 54604,
+            "x_end": 89935,
+            "y_end": 57815,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-BK-A139-01Z-00-DX3.D7636AED-FC27-4996-B709-DF8C865C91D4",
+        "cell": {
+            "x_start": 14184,
+            "y_start": 22064,
+            "x_end": 14972,
+            "y_end": 22852,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 12608,
+            "y_start": 22064,
+            "x_end": 15760,
+            "y_end": 25216,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-BK-A139-01Z-00-DX3.D7636AED-FC27-4996-B709-DF8C865C91D4",
+        "cell": {
+            "x_start": 11032,
+            "y_start": 25216,
+            "x_end": 11820,
+            "y_end": 26004,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 9456,
+            "y_start": 25216,
+            "x_end": 12608,
+            "y_end": 28368,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-BK-A139-01Z-00-DX3.D7636AED-FC27-4996-B709-DF8C865C91D4",
+        "cell": {
+            "x_start": 104016,
+            "y_start": 18912,
+            "x_end": 104804,
+            "y_end": 19700,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 104016,
+            "y_start": 18912,
+            "x_end": 107168,
+            "y_end": 22064,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "endometrium",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-BL-A13I-01Z-00-DX2.251412B0-EECB-420A-B963-B19432DB3F29",
+        "cell": {
+            "x_start": 94047,
+            "y_start": 8107,
+            "x_end": 94857,
+            "y_end": 8917,
+            "resized_mpp_x": 0.19427343751885928,
+            "resized_mpp_y": 0.19427343751885928
+        },
+        "tissue": {
+            "x_start": 94047,
+            "y_start": 6486,
+            "x_end": 97290,
+            "y_end": 9729,
+            "resized_mpp_x": 0.777813281325507,
+            "resized_mpp_y": 0.777813281325507
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24560000002384186,
+        "mpp_y": 0.24560000002384186,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EC-01Z-00-DX2.42C4093A-A313-41E6-B2FD-B7928F9B32F9",
+        "cell": {
+            "x_start": 73876,
+            "y_start": 70664,
+            "x_end": 74678,
+            "y_end": 71466,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 73876,
+            "y_start": 70664,
+            "x_end": 77087,
+            "y_end": 73875,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EC-01Z-00-DX2.42C4093A-A313-41E6-B2FD-B7928F9B32F9",
+        "cell": {
+            "x_start": 44968,
+            "y_start": 33726,
+            "x_end": 45770,
+            "y_end": 34528,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 44968,
+            "y_start": 32120,
+            "x_end": 48179,
+            "y_end": 35331,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EC-01Z-00-DX2.42C4093A-A313-41E6-B2FD-B7928F9B32F9",
+        "cell": {
+            "x_start": 77088,
+            "y_start": 12848,
+            "x_end": 77890,
+            "y_end": 13650,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 77088,
+            "y_start": 12848,
+            "x_end": 80299,
+            "y_end": 16059,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EF-01Z-00-DX2.90428613-C414-421F-9502-EADCEBC47184",
+        "cell": {
+            "x_start": 110814,
+            "y_start": 40150,
+            "x_end": 111616,
+            "y_end": 40952,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 109208,
+            "y_start": 38544,
+            "x_end": 112419,
+            "y_end": 41755,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EF-01Z-00-DX2.90428613-C414-421F-9502-EADCEBC47184",
+        "cell": {
+            "x_start": 51392,
+            "y_start": 52998,
+            "x_end": 52194,
+            "y_end": 53800,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 51392,
+            "y_start": 51392,
+            "x_end": 54603,
+            "y_end": 54603,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EJ-01Z-00-DX2.3DCD4041-FBE0-45B4-BD5B-6A9E8200289C",
+        "cell": {
+            "x_start": 30514,
+            "y_start": 54604,
+            "x_end": 31316,
+            "y_end": 55406,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 28908,
+            "y_start": 54604,
+            "x_end": 32119,
+            "y_end": 57815,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EJ-01Z-00-DX2.3DCD4041-FBE0-45B4-BD5B-6A9E8200289C",
+        "cell": {
+            "x_start": 38544,
+            "y_start": 22484,
+            "x_end": 39346,
+            "y_end": 23286,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 38544,
+            "y_start": 22484,
+            "x_end": 41755,
+            "y_end": 25695,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EJ-01Z-00-DX6.6EFFECC5-45F4-4828-8AD7-84E060E6FC9D",
+        "cell": {
+            "x_start": 85118,
+            "y_start": 88330,
+            "x_end": 85920,
+            "y_end": 89132,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 83512,
+            "y_start": 86724,
+            "x_end": 86723,
+            "y_end": 89935,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EJ-01Z-00-DX6.6EFFECC5-45F4-4828-8AD7-84E060E6FC9D",
+        "cell": {
+            "x_start": 77088,
+            "y_start": 33726,
+            "x_end": 77890,
+            "y_end": 34528,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 77088,
+            "y_start": 32120,
+            "x_end": 80299,
+            "y_end": 35331,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EJ-01Z-00-DX6.6EFFECC5-45F4-4828-8AD7-84E060E6FC9D",
+        "cell": {
+            "x_start": 6424,
+            "y_start": 48180,
+            "x_end": 7226,
+            "y_end": 48982,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 6424,
+            "y_start": 48180,
+            "x_end": 9635,
+            "y_end": 51391,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EO-01Z-00-DX1.E2FEF97D-F947-4497-8605-BBBFC3EC665B",
+        "cell": {
+            "x_start": 40150,
+            "y_start": 17666,
+            "x_end": 40952,
+            "y_end": 18468,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 38544,
+            "y_start": 16060,
+            "x_end": 41755,
+            "y_end": 19271,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G2-A2EO-01Z-00-DX1.E2FEF97D-F947-4497-8605-BBBFC3EC665B",
+        "cell": {
+            "x_start": 46574,
+            "y_start": 11242,
+            "x_end": 47376,
+            "y_end": 12044,
+            "resized_mpp_x": 0.194234371825587,
+            "resized_mpp_y": 0.194234371825587
+        },
+        "tissue": {
+            "x_start": 44968,
+            "y_start": 9636,
+            "x_end": 48179,
+            "y_end": 12847,
+            "resized_mpp_x": 0.7776640497904737,
+            "resized_mpp_y": 0.7776640497904737
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24799999594688416,
+        "mpp_y": 0.24799999594688416,
+        "organ": "bladder",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G9-A9S4-01Z-00-DX1.847AD7EA-278E-4E78-9465-1CA8229017AA",
+        "cell": {
+            "x_start": 23640,
+            "y_start": 69344,
+            "x_end": 24428,
+            "y_end": 70132,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 22064,
+            "y_start": 69344,
+            "x_end": 25216,
+            "y_end": 72496,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-G9-A9S4-01Z-00-DX1.847AD7EA-278E-4E78-9465-1CA8229017AA",
+        "cell": {
+            "x_start": 29944,
+            "y_start": 45704,
+            "x_end": 30732,
+            "y_end": 46492,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 28368,
+            "y_start": 44128,
+            "x_end": 31520,
+            "y_end": 47280,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-HC-7741-01Z-00-DX1.77D97B8B-ECAB-4BB3-97F3-67BFE05E7F54",
+        "cell": {
+            "x_start": 27557,
+            "y_start": 6484,
+            "x_end": 28367,
+            "y_end": 7294,
+            "resized_mpp_x": 0.1943525404203683,
+            "resized_mpp_y": 0.1943525404203683
+        },
+        "tissue": {
+            "x_start": 25936,
+            "y_start": 6484,
+            "x_end": 29178,
+            "y_end": 9726,
+            "resized_mpp_x": 0.777890044497326,
+            "resized_mpp_y": 0.777890044497326
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24570000171661377,
+        "mpp_y": 0.24570000171661377,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-HC-7741-01Z-00-DX1.77D97B8B-ECAB-4BB3-97F3-67BFE05E7F54",
+        "cell": {
+            "x_start": 32420,
+            "y_start": 30799,
+            "x_end": 33230,
+            "y_end": 31609,
+            "resized_mpp_x": 0.1943525404203683,
+            "resized_mpp_y": 0.1943525404203683
+        },
+        "tissue": {
+            "x_start": 32420,
+            "y_start": 29178,
+            "x_end": 35662,
+            "y_end": 32420,
+            "resized_mpp_x": 0.777890044497326,
+            "resized_mpp_y": 0.777890044497326
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.24570000171661377,
+        "mpp_y": 0.24570000171661377,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-WW-A8ZI-01Z-00-DX8.4FF9463C-C78F-49BB-A073-B93B5722D705",
+        "cell": {
+            "x_start": 47280,
+            "y_start": 48856,
+            "x_end": 48068,
+            "y_end": 49644,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 47280,
+            "y_start": 47280,
+            "x_end": 50432,
+            "y_end": 50432,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-X4-A8KQ-01Z-00-DX2.16F2F3D2-7673-40E0-9AE7-4C77403819EB",
+        "cell": {
+            "x_start": 108744,
+            "y_start": 50432,
+            "x_end": 109532,
+            "y_end": 51220,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 107168,
+            "y_start": 50432,
+            "x_end": 110320,
+            "y_end": 53584,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-X4-A8KQ-01Z-00-DX2.16F2F3D2-7673-40E0-9AE7-4C77403819EB",
+        "cell": {
+            "x_start": 88256,
+            "y_start": 40976,
+            "x_end": 89044,
+            "y_end": 41764,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 88256,
+            "y_start": 40976,
+            "x_end": 91408,
+            "y_end": 44128,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-X4-A8KQ-01Z-00-DX2.16F2F3D2-7673-40E0-9AE7-4C77403819EB",
+        "cell": {
+            "x_start": 42552,
+            "y_start": 31520,
+            "x_end": 43340,
+            "y_end": 32308,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 40976,
+            "y_start": 31520,
+            "x_end": 44128,
+            "y_end": 34672,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-X4-A8KQ-01Z-00-DX3.31ACC93B-288F-4278-8C1D-D0BC3806CD44",
+        "cell": {
+            "x_start": 33096,
+            "y_start": 25216,
+            "x_end": 33884,
+            "y_end": 26004,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 31520,
+            "y_start": 25216,
+            "x_end": 34672,
+            "y_end": 28368,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-X4-A8KQ-01Z-00-DX7.C8756796-ED65-47B2-A66E-C48A6CF345C1",
+        "cell": {
+            "x_start": 78800,
+            "y_start": 15760,
+            "x_end": 79588,
+            "y_end": 16548,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 78800,
+            "y_start": 15760,
+            "x_end": 81952,
+            "y_end": 18912,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-X4-A8KQ-01Z-00-DX7.C8756796-ED65-47B2-A66E-C48A6CF345C1",
+        "cell": {
+            "x_start": 75648,
+            "y_start": 6304,
+            "x_end": 76436,
+            "y_end": 7092,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 75648,
+            "y_start": 6304,
+            "x_end": 78800,
+            "y_end": 9456,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-X4-A8KS-01Z-00-DX1.590D57D8-3053-4C42-9216-C93DE8587C12",
+        "cell": {
+            "x_start": 100864,
+            "y_start": 59888,
+            "x_end": 101652,
+            "y_end": 60676,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 100864,
+            "y_start": 59888,
+            "x_end": 104016,
+            "y_end": 63040,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-X4-A8KS-01Z-00-DX2.E7A0D551-4DF3-47B0-885A-181E798FC36B",
+        "cell": {
+            "x_start": 22064,
+            "y_start": 15760,
+            "x_end": 22852,
+            "y_end": 16548,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 22064,
+            "y_start": 15760,
+            "x_end": 25216,
+            "y_end": 18912,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-X4-A8KS-01Z-00-DX2.E7A0D551-4DF3-47B0-885A-181E798FC36B",
+        "cell": {
+            "x_start": 28368,
+            "y_start": 11032,
+            "x_end": 29156,
+            "y_end": 11820,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 28368,
+            "y_start": 9456,
+            "x_end": 31520,
+            "y_end": 12608,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-X4-A8KS-01Z-00-DX2.E7A0D551-4DF3-47B0-885A-181E798FC36B",
+        "cell": {
+            "x_start": 42552,
+            "y_start": 39400,
+            "x_end": 43340,
+            "y_end": 40188,
+            "resized_mpp_x": 0.1944605476455763,
+            "resized_mpp_y": 0.1944605476455763
+        },
+        "tissue": {
+            "x_start": 40976,
+            "y_start": 37824,
+            "x_end": 44128,
+            "y_end": 40976,
+            "resized_mpp_x": 0.7778421905823052,
+            "resized_mpp_y": 0.7778421905823052
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.25270000100135803,
+        "mpp_y": 0.25270000100135803,
+        "organ": "prostate",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-D7-6527-01Z-00-DX1.3149a5ed-2ed0-4ce7-912b-e67bb1c33e8f",
+        "cell": {
+            "x_start": 22127,
+            "y_start": 15805,
+            "x_end": 22917,
+            "y_end": 16595,
+            "resized_mpp_x": 0.19441406562691554,
+            "resized_mpp_y": 0.19441406562691554
+        },
+        "tissue": {
+            "x_start": 22127,
+            "y_start": 15805,
+            "x_end": 25287,
+            "y_end": 18965,
+            "resized_mpp_x": 0.7776562625076622,
+            "resized_mpp_y": 0.7776562625076622
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25200000405311584,
+        "mpp_y": 0.25200000405311584,
+        "organ": "stomach",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-D7-6528-01Z-00-DX1.3c2ec0f4-9b8f-45c5-920d-5afe55890219",
+        "cell": {
+            "x_start": 12644,
+            "y_start": 74283,
+            "x_end": 13434,
+            "y_end": 75073,
+            "resized_mpp_x": 0.19441406562691554,
+            "resized_mpp_y": 0.19441406562691554
+        },
+        "tissue": {
+            "x_start": 12644,
+            "y_start": 72703,
+            "x_end": 15804,
+            "y_end": 75863,
+            "resized_mpp_x": 0.7776562625076622,
+            "resized_mpp_y": 0.7776562625076622
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.25200000405311584,
+        "mpp_y": 0.25200000405311584,
+        "organ": "stomach",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-D7-6528-01Z-00-DX1.3c2ec0f4-9b8f-45c5-920d-5afe55890219",
+        "cell": {
+            "x_start": 30029,
+            "y_start": 71122,
+            "x_end": 30819,
+            "y_end": 71912,
+            "resized_mpp_x": 0.19441406562691554,
+            "resized_mpp_y": 0.19441406562691554
+        },
+        "tissue": {
+            "x_start": 28449,
+            "y_start": 69542,
+            "x_end": 31609,
+            "y_end": 72702,
+            "resized_mpp_x": 0.7776562625076622,
+            "resized_mpp_y": 0.7776562625076622
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.25200000405311584,
+        "mpp_y": 0.25200000405311584,
+        "organ": "stomach",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-D7-6528-01Z-00-DX1.3c2ec0f4-9b8f-45c5-920d-5afe55890219",
+        "cell": {
+            "x_start": 34771,
+            "y_start": 53737,
+            "x_end": 35561,
+            "y_end": 54527,
+            "resized_mpp_x": 0.19441406562691554,
+            "resized_mpp_y": 0.19441406562691554
+        },
+        "tissue": {
+            "x_start": 34771,
+            "y_start": 53737,
+            "x_end": 37931,
+            "y_end": 56897,
+            "resized_mpp_x": 0.7776562625076622,
+            "resized_mpp_y": 0.7776562625076622
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25200000405311584,
+        "mpp_y": 0.25200000405311584,
+        "organ": "stomach",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-D7-8574-01Z-00-DX2.0824C6C7-B086-4D9B-94B4-FC1A49805700",
+        "cell": {
+            "x_start": 53328,
+            "y_start": 29088,
+            "x_end": 54135,
+            "y_end": 29895,
+            "resized_mpp_x": 0.1942631838755915,
+            "resized_mpp_y": 0.1942631838755915
+        },
+        "tissue": {
+            "x_start": 51712,
+            "y_start": 29088,
+            "x_end": 54943,
+            "y_end": 32319,
+            "resized_mpp_x": 0.7777749034721637,
+            "resized_mpp_y": 0.7777749034721637
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24650000035762787,
+        "mpp_y": 0.24650000035762787,
+        "organ": "stomach",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-D7-8574-01Z-00-DX2.0824C6C7-B086-4D9B-94B4-FC1A49805700",
+        "cell": {
+            "x_start": 61408,
+            "y_start": 16160,
+            "x_end": 62215,
+            "y_end": 16967,
+            "resized_mpp_x": 0.1942631838755915,
+            "resized_mpp_y": 0.1942631838755915
+        },
+        "tissue": {
+            "x_start": 61408,
+            "y_start": 16160,
+            "x_end": 64639,
+            "y_end": 19391,
+            "resized_mpp_x": 0.7777749034721637,
+            "resized_mpp_y": 0.7777749034721637
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.24650000035762787,
+        "mpp_y": 0.24650000035762787,
+        "organ": "stomach",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-QK-A64Z-01Z-00-DX2.96E8ABB3-3925-402B-8E51-7CF8CA0C63B9",
+        "cell": {
+            "x_start": 68542,
+            "y_start": 57997,
+            "x_end": 69420,
+            "y_end": 58875,
+            "resized_mpp_x": 0.19429180221050046,
+            "resized_mpp_y": 0.19429180221050046
+        },
+        "tissue": {
+            "x_start": 66785,
+            "y_start": 56240,
+            "x_end": 70300,
+            "y_end": 59755,
+            "resized_mpp_x": 0.7778310760477325,
+            "resized_mpp_y": 0.7778310760477325
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.625,
+        "mpp_x": 0.22660000622272491,
+        "mpp_y": 0.22660000622272491,
+        "organ": "head-and-neck",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-WA-A7H4-01Z-00-DX2.40997C97-F0B1-4943-8DD6-BD3F8AE3384F",
+        "cell": {
+            "x_start": 22302,
+            "y_start": 28674,
+            "x_end": 23098,
+            "y_end": 29470,
+            "resized_mpp_x": 0.1943359375,
+            "resized_mpp_y": 0.1943359375
+        },
+        "tissue": {
+            "x_start": 22302,
+            "y_start": 28674,
+            "x_end": 25488,
+            "y_end": 31860,
+            "resized_mpp_x": 0.77783203125,
+            "resized_mpp_y": 0.77783203125
+        },
+        "patch_x_offset": 0.125,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25,
+        "mpp_y": 0.25,
+        "organ": "head-and-neck",
+        "subset": "train"
+    },
+    {
+        "slide_name": "TCGA-WA-A7H4-01Z-00-DX2.40997C97-F0B1-4943-8DD6-BD3F8AE3384F",
+        "cell": {
+            "x_start": 17523,
+            "y_start": 41418,
+            "x_end": 18319,
+            "y_end": 42214,
+            "resized_mpp_x": 0.1943359375,
+            "resized_mpp_y": 0.1943359375
+        },
+        "tissue": {
+            "x_start": 15930,
+            "y_start": 41418,
+            "x_end": 19116,
+            "y_end": 44604,
+            "resized_mpp_x": 0.77783203125,
+            "resized_mpp_y": 0.77783203125
+        },
+        "patch_x_offset": 0.625,
+        "patch_y_offset": 0.125,
+        "mpp_x": 0.25,
+        "mpp_y": 0.25,
+        "organ": "head-and-neck",
+        "subset": "train"
+    }
+]

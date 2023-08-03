@@ -1,0 +1,6 @@
+wandb
+tqdm
+numpy
+Pillow
+opencv-python
+scikit-learn
