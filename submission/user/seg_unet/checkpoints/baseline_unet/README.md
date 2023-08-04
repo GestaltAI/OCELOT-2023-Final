@@ -1,1 +1,0 @@
-Copy the original U-Net weights from the organizer baseline to this folder. 
