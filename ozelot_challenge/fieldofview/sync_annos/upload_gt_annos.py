@@ -22,13 +22,9 @@ parser.add_argument('--cat_tumor_id', type=int, help='The CAT id for the tumor a
 parser.add_argument('--cat_background_id', type=int, help='The CAT id for the background annotation type')
 parser.add_argument('--cat_unknown_id', type=int, help='The CAT id for the unknown annotation type')
 parser.add_argument('--image_set_id', type=int, help='ID of the image set to index the images in')
-parser.add_argument('--username', type=str, default="exact", 
-                    help='CAT user name')
-parser.add_argument('--password', type=str, default="exact", 
-                    help='CAT user password')
-parser.add_argument('--host', type=str, default="http://127.0.0.1:8000", 
-                    # "http://azvm-mlops-b8.westus2.cloudapp.azure.com"
-                    help='CAT user name')
+parser.add_argument('--username', type=str, help='CAT user name')
+parser.add_argument('--password', type=str, help='CAT user password')
+parser.add_argument('--host', type=str, help='CAT user name')
 args = parser.parse_args()
 
 

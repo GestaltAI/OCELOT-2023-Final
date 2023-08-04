@@ -19,13 +19,9 @@ parser.add_argument('--input_folder', type=str,
                     default="'/mnt/g/Datasets/ocelot2023_v0.1.2/images/train/cell", 
                     help='Path to the input folder')
 parser.add_argument('--image_set_id', type=int, help='ID of the image set to index the images in')
-parser.add_argument('--username', type=str, default="exact", 
-                    help='CAT user name')
-parser.add_argument('--password', type=str, default="exact", 
-                    help='CAT user password')
-parser.add_argument('--host', type=str, default="http://127.0.0.1:8000", 
-                    # "http://azvm-mlops-b8.westus2.cloudapp.azure.com"
-                    help='CAT user name')
+parser.add_argument('--username', type=str, help='CAT user name')
+parser.add_argument('--password', type=str, help='CAT user password')
+parser.add_argument('--host', type=str, help='CAT user name')
 args = parser.parse_args()
 
 
